@@ -1,12 +1,3 @@
-# Composer
-/drush/contrib/
-/vendor/
-/docroot/core/
-/docroot/modules/contrib/
-/docroot/themes/contrib/
-/docroot/profiles/contrib/
-
-######## ARTIFACT IGNORE ABOVE ########
 
 # Drupal
 docroot/files
